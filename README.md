@@ -1,16 +1,25 @@
-## Hi there 👋
+## <h1 align="center">Hola 👋, soy Facundo Ledesma</h1>
+<h3 align="center">Desarrollador Back-end, de Buenos Aires Argentina.</h3>
 
-<!--
-**ledesmafcu/ledesmafcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estuve trabajando en Peludópolis, un proyecto grupal para la reserva de turnos para mascotas, donde me encargué de desarrollar varias funcionalidades del backend.(https://github.com/peludopolis/peludopolis)
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy aprendiendo y mejorando mis habilidades en React, Next.js y NestJS. Me interesa profundizar en tecnologías que me permitan crear aplicaciones web robustas, escalables y fáciles de mantener. Siempre estoy explorando nuevas herramientas, prácticas y enfoques para seguir creciendo como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Busco colaborar en proyectos de backend donde pueda seguir aprendiendo y poniendo en práctica mis conocimientos para desarrollar soluciones técnicas efectivas.
+
+- 👨‍💻 Mis proyectos estan disponibles en [https://github.com/ledesmafcu?tab=repositories](https://github.com/ledesmafcu?tab=repositories)
+
+- 📫 ¿Cómo llegar a mí? Podes contactarme a través de ledesma@gmail.com o en mi https://www.linkedin.com/in/facundo-ledesmabd/. Si estás interesado en colaborar o discutir algún proyecto, ¡estaré encantado de conectarme contigo!
+
+- 🔧 Tecnologías que manejo Backend: NestJS, Node.js, TypeScript, TypeORM, PostgreSQL Frontend: React, NextJs, CSS. Como desarrollador backend, mi objetivo es crear soluciones escalables y eficientes, con un enfoque en la estructura, lógica y rendimiento de las aplicaciones. Estoy constantemente aprendiendo y mejorando mis habilidades para implementar arquitecturas sólidas y buenas prácticas de programación.(Backend: NestJS, Node.js, TypeScript, TypeORM, PostgreSQL Frontend: React, NextJs, CSS. Como desarrollador backend, mi objetivo es crear soluciones escalables y eficientes, con un enfoque en la estructura, lógica y rendimiento de las aplicaciones. Estoy constantemente aprendiendo y mejorando mis habilidades para implementar arquitecturas sólidas y buenas prácticas de programación.)
+
+- ⚡ Fun fact: Además de mi pasión por la tecnología, soy DJ y un amante del arte en general. Creo que la creatividad es clave tanto en la música como en la programación, ya que ambas me inspiran a diseñar soluciones innovadoras y atractivas.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/facundo-ledesmabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo-ledesmabd" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
